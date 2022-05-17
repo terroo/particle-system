@@ -4,7 +4,7 @@ Basic Particle System Example with C++ and SFML
 # Code written in this video
 > Click on the image below to see the video
 
-[![particle-system.png](particle-system.png)](https://youtube.com/watch?v=e3OkHPkN95Y)
+[![particle-system.png](particle-system.png)](https://youtu.be/XmiEkoqodcg)
 
 ---
 
